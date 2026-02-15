@@ -1,6 +1,6 @@
 # Auth Form Example
 
-<img src="https://github.com/batuhancerit/rn-form-example/blob/main/assets/signUp.jpg" width="400"/>
+<img src="https://github.com/batuhancerit/rn-form-example/blob/main/assets/signUp.jpg" width="300"/>
 
 ## Tech Stack
 - React Native(Expo) 
