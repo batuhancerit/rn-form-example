@@ -1,6 +1,6 @@
 # Auth Form Example
 
-![alt text](https://github.com/batuhancerit/rn-form-example/blob/main/assets/signUp.jpg=400x)
+<img src="https://github.com/batuhancerit/rn-form-example/blob/main/assets/signUp.jpg" width="400"/>
 
 ## Tech Stack
 - React Native(Expo) 
@@ -12,8 +12,7 @@
 - Schema-based validation  
 - Error messages
 
-- ```bash
 git clone https://github.com/batuhancerit/rn-form-example
-cd rn-form-examples
+cd rn-form-example
 npm install
-npm expo start
+npx expo start
