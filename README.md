@@ -15,7 +15,7 @@
   <img src="https://github.com/batuhancerit/rn-form-example/blob/main/assets/signIn.jpg" width="250" />
 </p>
 
-git clone https://github.com/batuhancerit/rn-form-example
-cd rn-form-example
-npm install
-npx expo start
+-git clone https://github.com/batuhancerit/rn-form-example
+-cd rn-form-example
+-npm install
+-npx expo start
