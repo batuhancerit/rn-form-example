@@ -1,6 +1,6 @@
 # Auth Form Example
 
-![alt text](https://github.com/batuhancerit/rn-form-example/blob/main/assets/signUp.jpg "SignUp Page")
+![alt text](https://github.com/batuhancerit/rn-form-example/blob/main/assets/signUp.jpg=400x)
 
 ## Tech Stack
 - React Native(Expo) 
